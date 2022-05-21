@@ -17,6 +17,7 @@
 <div>
   
  ##
-  ![ Animação de cobra ](https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg
+ 
