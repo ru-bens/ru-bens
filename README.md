@@ -1,5 +1,10 @@
-### Hi there 👋
+# Olá sou Rubens
 
+
+<div>
+	<a href="https://github.com/ru-bens">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ru-bens&show_icons=true&theme=darcula&include_all_comits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-bens&layout=compact&langs_cont=16&theme=darcula"/>
 <!--
 **ru-bens/ru-bens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
