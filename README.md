@@ -15,10 +15,11 @@
 	<img height="30em" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img height="30em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div>
-   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
 
-//  ![Snake animation](https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ru-bens&repo=ELLEN2121&theme=react)](https://github.com/ru-bens/ru-bens)
  
