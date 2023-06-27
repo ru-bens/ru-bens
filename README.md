@@ -17,7 +17,7 @@
 <div>
   
  ##
-  [Snake animation](https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg)
+  !![Snake animation](https://github.com/ru-bens/ru-bens/blob/output/github-contribution-grid-snake.svg)
 </div>
 
  
